@@ -23,5 +23,6 @@ public class App
     	extrairManchetes.ManchetesNoArquivo(uol, arq2CSV);
     	
     	arqCSV.FecharArq();
+        arq2CSV.FecharArq();
     }
 }
