@@ -12,7 +12,7 @@ Para executar esse arquivo é necessário digitar o seguinte comando no terminal
 ```
 java -jar parserHTML-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-A versão java utilizada foi a 15.0.2.
+A versão java utilizada foi a 15.0.2. <br />
 Lembrando que pode ser necessário ter permissão de superusuário para execução do código. Após sucesso na execução, serão criados dois arquivos CSV no
 diretório target/ que irão conter o resultado da extração das manchetes.
 
