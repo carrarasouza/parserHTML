@@ -18,7 +18,7 @@ diretório **target/** que irão conter o resultado da extração das manchetes.
 
 ## Adicionando novos sites para extração
 Para adicionar novos sites para realizar a extração das manchetes é necessário incluir o novo site no arquivo **enumSites.java**. Para isso, é necessário
-criar um novo enum com o nome do site e especificar a URL e a lista de identificadores de manchetes utilizada pelo site.
+criar um novo enum com o nome do site, especificando a URL e a lista de identificadores de manchetes utilizada pelo site.
 
 ## Adicionando novos recursos 
 Caso seja necessário outro tipo de manipulação das manchetes, ao invés de salvar em um arquivo CSV, isso pode ser feito criando novas classes que podem
