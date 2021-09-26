@@ -1,9 +1,9 @@
 # parserHTML
 Trabalho 2 POOA - Wesley Azevedo Souza
 
-Foi utilizado nesse projeto a biblioteca Jsoup para realizar o parser HTML.
+<p>Foi utilizado nesse projeto a biblioteca Jsoup para realizar o parser HTML.
 Para compilar o projeto é necessário o uso do Maven, a versão utilizada foi a Apache Maven 3.8.1. Para compilar, digite o seguinte comando no terminal 
-no diretório parserHTML/parserHTML:
+no diretório parserHTML/parserHTML:</p>
 ## mvn compile assembly:single
 Caso não ocorra nenhum problema, será criado um arquivo no dirétorio target/ com o nome parserHTML-1.0-SNAPSHOT-jar-with-dependencies.jar. 
 Para executar esse arquivo é necessário digitar o seguinte comando no terminal:
